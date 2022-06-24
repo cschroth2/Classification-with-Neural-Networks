@@ -1,6 +1,5 @@
-tensorflow==1.14.0
-pandas==0.24.2
-matplotlib==3.2.2
-numpy==1.16.2
+tensorflow
+pandas
+matplotlib
+numpy
 sklearn
-#urllib
